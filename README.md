@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Arquitectura Orientada a Servicios
+## INGENIERIA WEB
 ==================================Maquetado================================
 - Docente : Abraham Gamarra Moreno
 - Integrantes: 
