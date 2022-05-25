@@ -16,7 +16,7 @@
 - Jonathan Jacobe Montes
 - Juan Carlos Campos
 - Sam Motta Medrano
-<p align="center"><img src="https://i.ibb.co/8B36WYR/ejercicio.png" width="300" height="300"></p>
+<p align="center"><img src="https://i.ibb.co/fY2FZ0J/Frame-1.jpg" width="650" height="400"></p>
 
 Como equipo de trabajo planteamos realizar el maquetado de la paginaweb que nos planteo el maestro de Ingenieria Web:
 
